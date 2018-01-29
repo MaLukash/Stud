@@ -20,6 +20,7 @@ namespace UnitTestProject1
             CalcClient client = new CalcClient();
             try
             {
+                //For repo
                 // проверка соединения
                 writer.Write("Проверка соединения с сервисом... ");
                 if (!string.Equals(client.TestConnection(), "OK", StringComparison.InvariantCultureIgnoreCase))

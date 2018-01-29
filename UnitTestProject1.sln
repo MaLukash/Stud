@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{FD813EC1-E9F8-4666-87AE-C0903201F242}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcService", "..\CalcService\CalcService\CalcService.csproj", "{4EDC838C-957E-421E-BADE-86E22A9577B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FD813EC1-E9F8-4666-87AE-C0903201F242}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD813EC1-E9F8-4666-87AE-C0903201F242}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD813EC1-E9F8-4666-87AE-C0903201F242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EDC838C-957E-421E-BADE-86E22A9577B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDC838C-957E-421E-BADE-86E22A9577B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDC838C-957E-421E-BADE-86E22A9577B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDC838C-957E-421E-BADE-86E22A9577B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
